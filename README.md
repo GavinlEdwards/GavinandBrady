@@ -5,5 +5,6 @@ We have 2 datasets we use, one as training data and one as the actual test data.
 We dropped a few columns but also changed the date column and turned it into 4 columns: days since a reference date(the earliest date in our set)years, months, and days to see 
 if there might be any correlation there. <br>
 We then performed a few methods of machine learning to create confusion matrices and see which one gives us the highest precision.
-We performed KNN, XGB, and rf. These models provided similiar outcomes however XGB was the best at a 70% precision.
+We performed KNN, XGB, and rf. These models provided similiar outcomes however XGB was the best at a 70% precision.<br>
+We then made a few graphs to show our model's effectiveness.
 ![image](https://github.com/GavinlEdwards/GavinandBrady/assets/156975648/4278bd5b-fe1e-4baa-9432-cdd6fe82c14c)
